@@ -9,5 +9,9 @@ public class TestSampleActivity extends ActivityInstrumentationTestCase2<SampleA
 		super("jp.lnc.test", SampleActivity.class);
 		// TODO Auto-generated constructor stub
 	}
+	 
+	public void testSamle(){
+		
+	}
 	
 }
